@@ -1,0 +1,2 @@
+C:\Users\余先生\source\repos\C++object模板07\Debug\C++object模板07.exe
+C:\Users\余先生\source\repos\C++object模板07\Debug\C++object模板07.pdb

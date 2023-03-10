@@ -1,0 +1,2 @@
+C:\Users\余先生\source\repos\c++object03\Debug\c++object03.exe
+C:\Users\余先生\source\repos\c++object03\Debug\c++object03.pdb

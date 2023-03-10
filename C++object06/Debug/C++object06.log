@@ -1,0 +1,4 @@
+﻿  读文本文件.cpp
+C:\Users\余先生\source\repos\C++object06\读文本文件.cpp(3,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\余先生\source\repos\C++object06\读文本文件.cpp(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  C++object06.vcxproj -> C:\Users\余先生\source\repos\C++object06\Debug\C++object06.exe
